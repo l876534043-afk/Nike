@@ -1,0 +1,16 @@
+{
+  "version": "1.0.2",
+  "buildTime": "2026-06-28T22:28:00+08:00",
+  "forceUpdate": false,
+  "files": {
+    "BananaAI-Backend.exe": {
+      "_note": "本次不含后端更新（本地无 .exe），下次发布时补"
+    },
+    "dist.zip": {
+      "url": "https://github.com/l876534043-afk/Nike/releases/download/v1.0.2/dist.zip",
+      "hash": "sha256:d47d3900cb54e0d1b4b4c69fb6e623d6e3a80383fb155e747437c28a0483073f",
+      "size": 339895
+    }
+  },
+  "notes": "视觉评审模块：气泡自适应 + localStorage溢出修复 + 拼合图B方案"
+}
